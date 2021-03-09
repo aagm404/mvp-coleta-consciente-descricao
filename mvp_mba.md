@@ -67,7 +67,9 @@
 * Receber dicas de descarte consciente
 * Receber notificações
 
-
+```
+TESTANDO O COMMIT NESTE GRUPO
+```
 
 Fontes:
 
